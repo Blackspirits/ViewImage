@@ -1,50 +1,58 @@
 {
-    "appName": {
-        "message": "Ver Imagem",
-        "description": "Nome da extensão, como apresentado na web store."
-    },
-    "appDesc": {
-        "message": "Reintroduz o botão \"Ver imagem\" do Google Imagens.",
-        "description": "A descrição da extensão, como apresentada na web store."
-    },
-    "searchImage": {
-        "message": "Pesquisar por imagem",
-        "description": "Botão leva à página \"Pesquisar por imagem\" do Google."
-    },
-    "viewImage": {
-        "message": "Ver imagem",
-        "description": "Botão para visualizar a imagem."
-    },
-    "settingsToggle_NewTab_viewImage": {
-        "message": "Abrir \"Ver imagem\" num novo separador:",
-        "description": "Opção que permite que as imagens sejam abertas num novo separador."
-   },
-    "settingsToggle_NewTab_searchByImage": {
-        "message": "Abrir \"Pesquisar por imagem\" num novo separador:",
-        "description": "Opção que permite que a página \"Pesquisar por imagem\" seja aberta num novo separador."
-    },
-    "settingsToggle_globeIcon": {
-        "message": "Ver ícone do Globo no botão \"Ver imagem\":",
-        "description": "Opção que permite que o ícone do globo seja apresentado no botão \"Ver imagem\"."
-    },
-    "settingsToggle_subjectCopyright": {
-        "message": "Ocultar aviso \"As imagens podem estar sujeitas a direitos de autor\":",
-        "description": "Opção que permite ocultar o aviso de direitos de autor na página de resultados de imagens."
-    },
-    "settingsToggle_noReferrer": {
-        "message": "Ocultar referenciador do site ao clicar em \"Ver imagem\":",
-        "description": "Opção que alterna a inclusão de rel='noreferrer' no botão \"Ver imagem\"."
-    },
-    "settingsToggle_buttonText": {
-        "message": "Definir texto do botão manualmente:",
-        "description": "Opção que permite definir manualmente o texto dos botões em vez da tradução."
-    },
-    "resetButton": {
-        "message": "Restaurar",
-        "description": "Texto apresentado no botão para reiniciar as prédefinições."
-    },
-    "optionsButton": {
-        "message": "Opções",
-        "description": "Texto apresentado no link para o botão de opções."
-    }
+  "appName": {
+    "message": "Ver Imagem",
+    "description": "Nome da extensão, como apresentado na Web Store."
+  },
+  "appDesc": {
+    "message": "Reintroduz o botão \"Ver Imagem\" do Google Imagens.",
+    "description": "Descrição da extensão, como apresentada na Web Store."
+  },
+  "searchImage": {
+    "message": "Pesquisar por imagem",
+    "description": "Botão que abre a página \"Pesquisar por imagem\" do Google."
+  },
+  "viewImage": {
+    "message": "Ver imagem",
+    "description": "Botão para visualizar a imagem."
+  },
+  "settingsToggle_NewTab_viewImage": {
+    "message": "Abrir \"Ver imagem\" num novo separador:",
+    "description": "Permite que as imagens sejam abertas num novo separador."
+  },
+  "settingsToggle_NewTab_searchByImage": {
+    "message": "Abrir \"Pesquisar por imagem\" num novo separador:",
+    "description": "Permite que a página \"Pesquisar por imagem\" seja aberta num novo separador."
+  },
+  "settingsToggle_globeIcon": {
+    "message": "Mostrar ícone do globo no botão \"Ver imagem\":",
+    "description": "Permite mostrar o ícone do globo no botão \"Ver imagem\"."
+  },
+  "settingsToggle_subjectCopyright": {
+    "message": "Ocultar aviso \"As imagens podem estar sujeitas a direitos de autor\":",
+    "description": "Permite ocultar o aviso de direitos de autor na página de resultados de imagens."
+  },
+  "settingsToggle_noReferrer": {
+    "message": "Ocultar referenciador ao clicar em \"Ver imagem\":",
+    "description": "Impede o envio do site de origem ao abrir a imagem."
+  },
+  "settingsToggle_buttonText": {
+    "message": "Definir manualmente o texto do botão:",
+    "description": "Permite definir manualmente o texto dos botões em vez da tradução automática."
+  },
+  "settingsToggle_contextMenu_searchByImage": {
+    "message": "Mostrar \"Pesquisar por imagem\" no menu de contexto:",
+    "description": "Define se a opção \"Pesquisar por imagem\" deve aparecer no menu de contexto."
+  },
+  "settingsToggle_contextMenu_searchByImageNewTab": {
+    "message": "Abrir resultados de \"Pesquisar por imagem\" (menu de contexto) num novo separador:",
+    "description": "Permite que os resultados sejam abertos num novo separador."
+  },
+  "resetButton": {
+    "message": "Repor",
+    "description": "Texto apresentado no botão para repor as predefinições."
+  },
+  "optionsButton": {
+    "message": "Opções",
+    "description": "Texto apresentado no botão de opções."
+  }
 }
